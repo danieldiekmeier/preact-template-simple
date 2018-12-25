@@ -11,7 +11,7 @@
     "lint": "eslint src"
   },
   "eslintConfig": {
-    "extends": "eslint-config-synacor"
+    "extends": "eslint-config-standard"
   },
   "eslintIgnore": ["build/*"],
   "devDependencies": {
